@@ -39,10 +39,10 @@ It uses:
 ## Software & Libraries
 
 - ESP RainMaker SDK
-- WiFi & WiFiProv libraries
+- WiFi libraries
 - SimpleTimer
-- Arduino IDE or PlatformIO
-- 
+- Arduino IDE 
+
 ## Working Principle
 - The ESP32 connects to Wi-Fi using RainMaker provisioning.
 - Two analog sensors measure water levels.
