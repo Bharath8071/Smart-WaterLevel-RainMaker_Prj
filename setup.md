@@ -17,6 +17,7 @@ const char *pop = "12345RS8";
 ```
 
 **4. Upload code to your ESP32.**
+
 **5. Connect via RainMaker App → Scan QR code → Monitor and control water level system remotely.**
 
 ## Note:
