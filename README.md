@@ -2,11 +2,14 @@
 
 This project is designed to automate water level monitoring and control using ESP32 and Espressif RainMaker. It can detect tank water levels using sensors, trigger alerts through RainMaker, and automatically control relays for motor operation.
 
+<!--[Things to Note](https://github.com/Bharath8071/Smart-WaterLevel-RainMaker_Prj/blob/main/setup.md#note) -->
+
 It uses:
 - RainMaker IoT Cloud (for remote monitoring and control)
 - ESP32 (core controller)
 - Analog water level sensors (detect levels)
 - Buzzer and relays (for alert and motor control)
+
 
 ## Hardware Used
 | Component |	Purpose|
@@ -42,6 +45,7 @@ It uses:
 - WiFi libraries
 - SimpleTimer
 - Arduino IDE 
+
 
 ## Working Principle
 - The ESP32 connects to Wi-Fi using RainMaker provisioning.
