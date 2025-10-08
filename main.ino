@@ -3,8 +3,8 @@
 #include "WiFiProv.h"
 #include <SimpleTimer.h>
 
-const char *service_name = "PROV_1234RS8";
-const char *pop = "12345RS8";
+const char *service_name = "WIFI NAME";
+const char *pop = "WIFI_PASSWORD";
 
 // define the Chip Id
 uint32_t espChipId = 5;
