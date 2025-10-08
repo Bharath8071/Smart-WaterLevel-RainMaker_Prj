@@ -7,7 +7,7 @@ cd Smart-WaterLevel-RainMaker
 **2. Open in Arduino IDE, install:**
 
 - ESP32 board manager
-- ESP RainMaker library 
+- [ESP RainMaker library](https://github.com/espressif/esp-rainmaker)
 - SimpleTimer
 
 **3. Configure Wi-Fi provisioning keys:**
